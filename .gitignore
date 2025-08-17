@@ -1,0 +1,6 @@
+# environment files
+.env
+# makefile that defines targets
+Makefile
+# folder created by Air reloading tool
+tmp/
